@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+#timer{
+    font-size: 40px;
+    color: aliceblue;
+}
+button{
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+button:active{
+    background-color: skyblue;
+    font-size: 10px;
+}
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: red;
+}
+#reset{
+    background-color: orangered;
+}
